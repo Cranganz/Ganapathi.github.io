@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Dr Ganapathi Ammasai Sengodan"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : 
   location         : "United Kingdom"
-  employer         : "Cranfield University
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  employer         : "Cranfield University"
+  pubmed           : 
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Ganapathi-A-S"
   uri              :
   bitbucket        :
   codepen          :
