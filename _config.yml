@@ -11,7 +11,7 @@ title                    : "Ganapathi's Homepage"
 title_separator          : 
 name                     : &name "Ganapathi Ammasai Sengodan"
 description              : &description "personal description"
-url                      : https://Ganapathi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://Ganapathi.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Cranganz/Ganapathi.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
