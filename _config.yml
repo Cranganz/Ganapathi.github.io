@@ -8,7 +8,7 @@
 # Site Settings
 locale                   : "en-US"
 title                    : "Ganapathi's Homepage"
-title_separator          : "_"
+title_separator          : 
 name                     : &name "Ganapathi Ammasai Sengodan"
 description              : &description "personal description"
 url                      : https://Ganapathi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
